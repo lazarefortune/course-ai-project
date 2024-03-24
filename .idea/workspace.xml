@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf1b1d02-f7c0-4b2b-bf26-a5a6edb4eb7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/swagger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/roles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/comment.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/error.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/error.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/post.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/user.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/migrations/20220311151449_create_table_users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/migrations/20220311215152_create_table_posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/migrations/20220311224458_create_table_comments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/models/comment.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/models/post.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/models/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/models/user.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/seeds/01_users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/seeds/02_posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/seeds/03_comments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/comment.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/post.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/user.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/user.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/comment.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/post.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/user.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/tools.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/tools.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2e8YEVMbhCDhQ9BrqmAiozvHra3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "21.7.1",
+    "javascript.nodejs.core.library.typings.version": "20.11.30",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf1b1d02-f7c0-4b2b-bf26-a5a6edb4eb7f" name="Changes" comment="" />
+      <created>1711287560780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711287560780</updated>
+      <workItem from="1711287562151" duration="562000" />
+      <workItem from="1711288139076" duration="6174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
